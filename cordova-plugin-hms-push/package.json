@@ -1,7 +1,7 @@
 {
     "name": "cordova-plugin-hms-push-rs",
     "description": "Cordova HMS Push Plugin",
-    "version": "5.1.1-301",
+    "version": "5.1.1-302",
     "main": "./www/HmsPush.js",
     "types": "./types/index.d.ts",
     "repository": {
